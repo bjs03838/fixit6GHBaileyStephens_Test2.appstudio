@@ -27,5 +27,3 @@ console.log(pets.indexOf("Cindy"))
 /*Create a new variable called "withMarmaduke" and set it equal to the original array concatenated with the string "Marmaduke". Output this new array variable to the console.*/
 var withMarmaduke = pets.concat("Marmaduke")
 console.log(withMarmaduke)
-
-/*Test*/
